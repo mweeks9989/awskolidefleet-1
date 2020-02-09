@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This is mikey weeks and I approve this docker standup script
 /usr/bin/fleet prepare db \
 	--mysql_address=db.fleet.priv:3306 \
 	--mysql_database=kolide \
